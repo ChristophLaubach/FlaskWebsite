@@ -16,3 +16,11 @@ Infrastructure as a Service
 SaaS
 Software as a Service
 -> ready software, to be used with licences
+
+CI/CD
+
+Continuous Integration
+
+Continuous Deployment
+
+
